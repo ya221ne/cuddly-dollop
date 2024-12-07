@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/nlp4ed"
+    },
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/nlp4ed"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://www.github.com/nlp4ed"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/company/nlp4ed"
+    }
+  ]
+}

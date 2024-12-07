@@ -1,0 +1,36 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 2
+
+[[main]]
+weight = 3
+name = "Categories"
+
+[[main]]
+parent = "Categories"
+name = "Edtech"
+url = "/edtech"
+
+[[main]]
+parent = "Categories"
+name = "EFL"
+url = "/efl"
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 1
